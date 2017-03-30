@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 4c14342389fd8794b9ba8c7e2ea91891
+timeCreated: 1462536322
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: POWERPOL_TYPE1_L9_001
+    100002: POWERPOL_TYPE2_L9_001
+    100004: POWERPOL_TYPE3_L9_001
+    100006: POWERPOL_TYPE4_L9_001
+    100008: //RootNode
+    100010: TRAFLIGHT_TYPE1_L9_001
+    100012: TRAFLIGHT_TYPE1_L9_002
+    100014: TRAFLIGHT_TYPE1_L9_003
+    100016: TRAFLIGHT_TYPE2_L9_001
+    100018: TRAFLIGHT_TYPE2_L9_002
+    100020: TRAFLIGHT_TYPE3_L9_001
+    100022: TRAFLIGHT_TYPE4_L9_001
+    100024: TRAFLIGHT_TYPE5_L9_001
+    100026: TRAFLIGHT_TYPE5_L9_002
+    100028: TRAFLIGHT_TYPE5_L9_003
+    100030: TRAFLIGHT_TYPE5_L9_004
+    100032: TRAFLIGHT_TYPE6_L9_001
+    100034: TRAFLIGHT_TYPE7_L9_001
+    400000: POWERPOL_TYPE1_L9_001
+    400002: POWERPOL_TYPE2_L9_001
+    400004: POWERPOL_TYPE3_L9_001
+    400006: POWERPOL_TYPE4_L9_001
+    400008: //RootNode
+    400010: TRAFLIGHT_TYPE1_L9_001
+    400012: TRAFLIGHT_TYPE1_L9_002
+    400014: TRAFLIGHT_TYPE1_L9_003
+    400016: TRAFLIGHT_TYPE2_L9_001
+    400018: TRAFLIGHT_TYPE2_L9_002
+    400020: TRAFLIGHT_TYPE3_L9_001
+    400022: TRAFLIGHT_TYPE4_L9_001
+    400024: TRAFLIGHT_TYPE5_L9_001
+    400026: TRAFLIGHT_TYPE5_L9_002
+    400028: TRAFLIGHT_TYPE5_L9_003
+    400030: TRAFLIGHT_TYPE5_L9_004
+    400032: TRAFLIGHT_TYPE6_L9_001
+    400034: TRAFLIGHT_TYPE7_L9_001
+    2300000: POWERPOL_TYPE1_L9_001
+    2300002: POWERPOL_TYPE2_L9_001
+    2300004: POWERPOL_TYPE3_L9_001
+    2300006: POWERPOL_TYPE4_L9_001
+    2300008: TRAFLIGHT_TYPE1_L9_001
+    2300010: TRAFLIGHT_TYPE1_L9_002
+    2300012: TRAFLIGHT_TYPE1_L9_003
+    2300014: TRAFLIGHT_TYPE2_L9_001
+    2300016: TRAFLIGHT_TYPE2_L9_002
+    2300018: TRAFLIGHT_TYPE3_L9_001
+    2300020: TRAFLIGHT_TYPE4_L9_001
+    2300022: TRAFLIGHT_TYPE5_L9_001
+    2300024: TRAFLIGHT_TYPE5_L9_002
+    2300026: TRAFLIGHT_TYPE5_L9_003
+    2300028: TRAFLIGHT_TYPE5_L9_004
+    2300030: TRAFLIGHT_TYPE6_L9_001
+    2300032: TRAFLIGHT_TYPE7_L9_001
+    3300000: POWERPOL_TYPE1_L9_001
+    3300002: POWERPOL_TYPE2_L9_001
+    3300004: POWERPOL_TYPE3_L9_001
+    3300006: POWERPOL_TYPE4_L9_001
+    3300008: TRAFLIGHT_TYPE1_L9_001
+    3300010: TRAFLIGHT_TYPE1_L9_002
+    3300012: TRAFLIGHT_TYPE1_L9_003
+    3300014: TRAFLIGHT_TYPE2_L9_001
+    3300016: TRAFLIGHT_TYPE2_L9_002
+    3300018: TRAFLIGHT_TYPE3_L9_001
+    3300020: TRAFLIGHT_TYPE4_L9_001
+    3300022: TRAFLIGHT_TYPE5_L9_001
+    3300024: TRAFLIGHT_TYPE5_L9_002
+    3300026: TRAFLIGHT_TYPE5_L9_003
+    3300028: TRAFLIGHT_TYPE5_L9_004
+    3300030: TRAFLIGHT_TYPE6_L9_001
+    3300032: TRAFLIGHT_TYPE7_L9_001
+    4300000: POWERPOL_TYPE3_L9_001
+    4300002: POWERPOL_TYPE4_L9_001
+    4300004: POWERPOL_TYPE1_L9_001
+    4300006: POWERPOL_TYPE2_L9_001
+    4300008: TRAFLIGHT_TYPE5_L9_001
+    4300010: TRAFLIGHT_TYPE4_L9_001
+    4300012: TRAFLIGHT_TYPE3_L9_001
+    4300014: TRAFLIGHT_TYPE5_L9_002
+    4300016: TRAFLIGHT_TYPE2_L9_001
+    4300018: TRAFLIGHT_TYPE5_L9_003
+    4300020: TRAFLIGHT_TYPE6_L9_001
+    4300022: TRAFLIGHT_TYPE7_L9_001
+    4300024: TRAFLIGHT_TYPE1_L9_002
+    4300026: TRAFLIGHT_TYPE1_L9_001
+    4300028: TRAFLIGHT_TYPE1_L9_003
+    4300030: TRAFLIGHT_TYPE2_L9_002
+    4300032: TRAFLIGHT_TYPE5_L9_004
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
