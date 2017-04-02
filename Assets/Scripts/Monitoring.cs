@@ -76,7 +76,7 @@ public class Monitoring : MonoBehaviour {
 
     public void OnClickStart()
     {
-        Debug.Log("Pulsada");
+        //Debug.Log("Pulsada");
         ExplainCanvas.SetActive(false);
         CountDownCanvas.SetActive(true);
         InvokeRepeating("Countdown", 1,1);
@@ -91,7 +91,7 @@ public class Monitoring : MonoBehaviour {
     void Countdown()
     {
 
-        Debug.Log("Llamada cuenta");
+        //Debug.Log("Llamada cuenta");
         timedown--;
         CountText.text = timedown.ToString(); 
         if (timedown == 0)
